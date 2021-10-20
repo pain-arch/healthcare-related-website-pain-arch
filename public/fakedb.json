@@ -1,0 +1,50 @@
+[
+    {
+        "key": "fksda1",
+        "title": "Personal Care",
+        "price": "2000",
+        "img": "https://i.ibb.co/ZGvXD8v/1.png",
+        "basicdiscription": "We are ready to assist with any personal care needs — bathing, grooming, eating, and more.",
+        "discription": "Personal care is the support and supervision of daily personal living tasks and private hygiene and toileting, along with dressing and maintaining your personal appearance. Personal care for the elderly can cover, but is not limited to: Bathing and showering, including bed-baths. Applying lotions and creams as required."
+    },
+    {
+        "key": "fksda2",
+        "title": "Transitional Care",
+        "price": "3500",
+        "img": "https://i.ibb.co/4W2GXD3/2.png",
+        "basicdiscription": "Optimize recovery and enjoy a safe return home from the hospital.",
+        "discription": "Transitional care refers to the coordination and continuity of health care during a movement from one healthcare setting to either another or to home, called care transition, between health care practitioners and settings as their condition and care needs change during the course of a chronic or acute illness."
+    },
+    {
+        "key": "fksda3",
+        "title": "Dementia Care",
+        "price": "1500",
+        "img": "https://i.ibb.co/qD1fRX4/3.png",
+        "basicdiscription": "Our specialized approach to memory care promotes dignity, safety, and communication.",
+        "discription": "In the older population, dementia is the most frequent reason for long-term care. Because most forms of dementia cannot be cured, the aim of treatment is to delay disease progression and to maintain functioning and quality of life.They need 24-hour care and supervision. They are unable to communicate, even to share that they are in pain, and are more vulnerable to infections, especially pneumonia."
+    },
+    {
+        "key": "fksda4",
+        "title": "Senior Care",
+        "price": "2400",
+        "img": "https://i.ibb.co/RgRZD0F/4.png",
+        "basicdiscription": "Team-based approach to compassionate and trustworthy care.",
+        "discription": "SeniorCare.org is a free and reliable resource that provides answers to your questions about everything from independent living options for yourself, to assisted living options for your mom or dad. Whether you’re considering 55+ communities and senior apartments for the next stage of your life, or gathering information on nursing homes or advanced memory care options for a loved one, SeniorCare.org is here to help."
+    },
+    {
+        "key": "fksda5",
+        "title": "Consultation Care",
+        "price": "1200",
+        "img": "https://i.ibb.co/mHc6kHy/5.png",
+        "basicdiscription": "Our professional staff is dedicated to helping people navigate through the difficult decisions",
+        "discription": "Our professional staff is dedicated to helping people navigate through the difficult decisions and uncertainties people with Alzheimer’s and their families face at every stage of the disease though our Care Consultation services. These include: 1. Assessment of needs,2. Assistance with planning and problem solving and 3. Supportive listening"
+    },
+    {
+        "key": "fksda16",
+        "title": "Online medical Care",
+        "price": "800",
+        "img": "https://i.ibb.co/tQvkt7r/6.png",
+        "basicdiscription": "We are ready to assist you with online via phone or video chat.",
+        "discription": "While you cannot simply order a prescription online, you can meet with an online doctor to get medication prescribed online. In order to receive prescription medication you must first consult with a medical doctor. This can be done online via phone or video chat."
+    }
+]

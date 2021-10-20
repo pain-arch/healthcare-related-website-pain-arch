@@ -1,0 +1,16 @@
+.left-side{
+    display: flex !important;
+}
+.left{
+    margin: 0 auto;
+}
+.headline-design{
+    display: inline-block;
+    font-size: px;
+    border-bottom: 5px solid #FFDE59;
+}
+@media only screen and (max-width: 600px) {
+    .right-side{
+        display: none;
+    }
+  }

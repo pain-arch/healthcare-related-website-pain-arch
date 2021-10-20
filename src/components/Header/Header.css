@@ -1,0 +1,19 @@
+.navbar-design{
+    background-color: #FFDE59!important;
+}
+.button-design{
+    padding: 4px;
+    font-size: 17px !important;
+    border-radius: 10px;
+}
+.logo-design{
+    width: 50%;
+}
+@media only screen and (max-width: 600px) {
+    .logo-design{
+        width: 100% !important;
+    }
+    .navbar-brand{
+        width: 50% !important;
+    }
+  }

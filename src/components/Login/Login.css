@@ -1,0 +1,20 @@
+.login-body{
+    background-image: url("https://colorlib.com/etc/lf/Login_v4/images/bg-01.jpg");
+}
+.input-design{
+    border: none;
+    border-bottom: 3px solid #FFDE59;
+    font-size: 20px;
+
+}
+.login-container-design{
+    background-color: white;
+}
+@media only screen and (max-width: 600px) {
+    .login-container-design{
+        width:95% !important;
+    }
+    .login-body{
+        margin-top: 60px !important;
+    }
+  }

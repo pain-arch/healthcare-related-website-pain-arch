@@ -1,0 +1,19 @@
+.register-body{
+    background-image: url("https://colorlib.com/etc/lf/Login_v5/images/bg-01.jpg");
+}
+.input-design{
+    border: none;
+    border-bottom: 3px solid #FFDE59;
+    font-size: 20px;
+}
+.register-container-design{
+    background-color: white;
+}
+@media only screen and (max-width: 600px) {
+    .register-container-design{
+        width:95% !important;
+    }
+    .register-body{
+        margin-top: 60px !important;
+    }
+  }
